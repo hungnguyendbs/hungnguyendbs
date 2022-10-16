@@ -1,0 +1,16 @@
+0 1 1 0 1 
+1 0 0 1 0 
+1 0 0 0 0 
+0 1 0 0 1 
+1 0 0 1 0 
+
+2 3 5 
+1 4 
+1 
+2 5 
+1 4 
+Bac cua 1 la 3
+Bac cua 2 la 2
+Bac cua 3 la 1
+Bac cua 4 la 2
+Bac cua 5 la 2
