@@ -188,7 +188,7 @@ int main()
 	        	cout << "|   6. Tim bac cua dinh.                               |\n";
 	        	cout << "|   7. Tim dinh ke                                     |\n";
 	        	cout << "|   0. Thoat                                           |\n";
-                cout << "|______________________________________________________|\n";
+                        cout << "|______________________________________________________|\n";
 		        cout << "Nhap tuy chon: ";
                 int key; cin>>key;
 
