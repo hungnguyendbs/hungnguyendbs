@@ -173,13 +173,7 @@ void Graph::DinhKe(int dinh_ke, Graph gr)
 }
 int main()
 {
-    
-
-
-
     Graph graph;
-
-
     bool check =true;
     while (check)
     {
