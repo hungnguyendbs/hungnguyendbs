@@ -202,7 +202,7 @@ int main()
         {
             case 1:
             {
-               graph.InputGraph("output1_1_.txt",graph);
+               graph.InputGraph("bai2.txt",graph);
                cout<<"doc du lieu thanh cong";
                 getch();
                  break;
