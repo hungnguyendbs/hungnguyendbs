@@ -129,7 +129,7 @@ int Graph::getCanh(Graph gr)
 }
 int Graph::getDinh(Graph gr)
 {
-    data.dinh =gr.size;
+    gr.data.dinh =gr.size;
     return gr.data.dinh;
 }
 
